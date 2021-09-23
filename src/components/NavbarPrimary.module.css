@@ -1,0 +1,17 @@
+.site_title {
+  font-size: 25px;
+  letter-spacing: -3px;
+  color: white;
+}
+
+.header_link_text {
+  color: white;
+  font-weight: 500;
+  letter-spacing: -1px;
+}
+
+.header_link_text_active,
+.header_link_text:hover {
+  color: #007bff;
+  text-decoration: none;
+}
